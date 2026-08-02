@@ -1,0 +1,48 @@
+
+.container {
+    color: white;
+    text-align: auto;
+    max-width: 100%;
+    padding: 20px;
+    margin: auto;
+    margin-left: 50px;
+}
+label{
+    color: white;
+    font-weight: bold;
+    display: inline-block;
+    width: 80px;
+    margin-left: 550px;
+}
+.container h1, .container p{
+    text-align: center;
+    margin: 0 auto;
+}
+input {
+    outline: none;
+    margin: 10px;
+}
+.jaipur{
+    width: 100%;
+    position: absolute;
+    z-index: -1;
+}
+label[for="male"],
+label[for="female"]{
+    width: auto;
+    margin-left: 0;
+    margin-right: 10px;
+}
+.container .btn{
+    display:block;
+    margin:auto;
+    border-radius: 6px;
+    background-color:rgb(209, 210, 211)
+
+}
+textarea{
+    padding: 1px;
+    max-width: 200px;
+    max-height: 25px;
+}
+
