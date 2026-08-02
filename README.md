@@ -73,26 +73,12 @@ database/trip.sql
 http://localhost/php-crud-project/
 ```
 
-## Screenshots
-
-### Home Page
-
-(Add Screenshot)
-
-### Records
-
-(Add Screenshot)
-
-### Edit Record
-
-(Add Screenshot)
 
 ## Future Improvements
 
 - User Authentication
 - Search Records
 - Pagination
-- Bootstrap UI
 - Input Validation
 - Password Encryption
 
